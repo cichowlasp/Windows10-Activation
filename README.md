@@ -1,13 +1,13 @@
 # Windows 10 Activation
 
-##Run cmd as administrator an type following commands (this się example for Windows 10 Pro for others version you need to replace the key in 3 command):
+## Run cmd as administrator an type following commands (this się example for Windows 10 Pro for others version you need to replace the key in 3 command):
 
 * slmgr.vbs /upk
 * slmgr /skms kms8.msguides.com
 * slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 * slmgr /ato
 
-##Other keys:
+## Other keys:
 * Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 * Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
 * Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
