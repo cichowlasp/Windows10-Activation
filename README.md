@@ -1,6 +1,6 @@
-# Windows 10 Activation
+# Windows 10/11 Activation
 
-## Run cmd as administrator an type following commands (this is example for Windows 10 Pro for others version you need to replace the key in 3 command):
+## Run cmd as administrator an type following commands (this is example for Windows 10/11 Pro for others version you need to replace the key in 3 command):
 
 * slmgr.vbs /upk
 * slmgr /skms kms8.msguides.com
